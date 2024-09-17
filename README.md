@@ -27,7 +27,7 @@ To run this project locally, ensure you have the following installed:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/simple-nextjs-project.git
+    git clone https://github.com/Saqibi4213/simple_nextjs_project.git
     ```
 
 2. **Navigate to the project directory**:
@@ -60,8 +60,7 @@ To run this project locally, ensure you have the following installed:
 ## Author
 
 - **Name**: Mehria Saqibi
-- **GitHub**: [github.com/your-username](https://github.com/your-username)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [your-email@example.com](mosawermh@gmail.com)
 
 
 Feel free to modify this `README.md` file to better fit your project's needs or specific details.
