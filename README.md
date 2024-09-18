@@ -12,8 +12,11 @@ A simple and responsive Next.js application featuring a homepage, about page, an
 - **Responsive Design**: Fully responsive layout using Tailwind CSS to ensure a smooth user experience on all devices.
 
 ## Live Demo
+**Vercel**
+You can view the live demo of the project [here](https://simple-nextjs-project-287t-69ttw657f-saqibi4213s-projects.vercel.app/).
 
-You can view the live demo of the project [here](#).
+**Netlify**
+[here](https://nextjs-project--jade-donut-071d63.netlify.app/).
 
 ## Requirements
 
